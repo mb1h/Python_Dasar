@@ -1,0 +1,12 @@
+# Virtual environment (dibuat ulang di tiap komputer)
+.venv/
+
+# Bytecode Python
+__pycache__/
+*.pyc
+
+# Cache pengujian
+.pytest_cache/
+
+# Pengaturan VS Code lokal (khusus komputer masing-masing)
+.vscode/

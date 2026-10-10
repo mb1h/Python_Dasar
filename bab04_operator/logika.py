@@ -1,0 +1,15 @@
+#  Operator Perbandingan & Logika
+umur = 20
+punya_ktp = True
+
+print(umur >= 17 and punya_ktp)
+print(umur < 13 or umur > 60)
+print(not punya_ktp)
+
+# Tabel operator perbandingan 
+print("5 == 5 ->", 5 == 5)    
+print("5 != 3 ->", 5 != 3)    
+print("7 > 9  ->", 7 > 9)    
+print("2 < 8  ->", 2 < 8)     
+print("5 >= 5 ->", 5 >= 5)    
+print("4 <= 1 ->", 4 <= 1)    
